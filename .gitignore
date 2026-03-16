@@ -1,0 +1,7 @@
+uploads/
+*.bak
+*.bak_zeit
+*.save
+config.json
+order.json
+clock_assets/
